@@ -2,7 +2,7 @@
 # Eye Blink Detection
 
 ## Overview
-This project uses Python, MediaPipe, and OpenCV to detect eye blinks through webcam input. The system processes face landmarks to calculate the distance between the upper and lower eyelids and detects when the eyes blink based on this distance.
+This project uses Python, MediaPipe, and OpenCV to detect eye blinks through webcam input. 
 
 ## Setup and Running the Script
 
