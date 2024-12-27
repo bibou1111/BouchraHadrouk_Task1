@@ -12,7 +12,7 @@ Before running the script, make sure you have the following installed:
 - OpenCV
 - MediaPipe
 - SciPy
-- 
+  
 ## Usage
 - The script works by tracking facial landmarks in real-time.
 - It calculates the distance between the upper and lower eyelids to detect blinks.
