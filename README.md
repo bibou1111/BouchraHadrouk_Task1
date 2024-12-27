@@ -8,7 +8,7 @@ This project uses Python, MediaPipe, and OpenCV to detect eye blinks through web
 
 ## Requirements
 Before running the script, make sure you have the following installed:
-- Python 3.6 or higher
+- Python 3.6 
 - OpenCV
 - MediaPipe
 - SciPy
